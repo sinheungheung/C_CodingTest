@@ -11,7 +11,7 @@ int main(void) {
 	pz = add(x, y);
 	printf("%d\n", *pz); //12
 	pz = add(x, y);
-	printf("%d\n", *pz); //³Î°ª
+	printf("%d\n", *pz); //ë„ ê°’
 	
 	return 0;
 }
